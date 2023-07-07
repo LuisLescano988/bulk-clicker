@@ -1,0 +1,21 @@
+#root {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+}
+
+.click-button { 
+    width: 80%;
+    padding: 1em;
+    background-color: rgb(228, 60, 60);
+}
+
+.start-button { 
+    background-color: rgb(66, 185, 2);
+}
+
+.highest-score {
+    margin-top: 2rem;
+   color: gray;
+}

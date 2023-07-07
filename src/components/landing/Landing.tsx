@@ -7,7 +7,7 @@ function Landing() {
     return (
       <>
         <NavLink className="nav_button" to={"/home"}>
-        <button>Click to Start</button>
+        <button>Go to the game</button>
         </NavLink>
         <h2>Prepare to click fast!</h2>
       </>
